@@ -18,28 +18,42 @@ https://drive.google.com/drive/folders/1xJGbSwYG_6mTjqE9AZQ_2sRFYdQdmEbi?usp=sha
 
 1. There is button for cube, sphere and a start button to go to next scene.
 
-
+![Gameplay1](https://github.com/Stanly-Davis/Simple-World-Creation-Game-in-Unity/blob/main/Images/Gameplay%20photos/Screenshot%20(48).png)
    
 2. After clicking cube button, a cube is created in the world.
 
+![Gameplay2](https://github.com/Stanly-Davis/Simple-World-Creation-Game-in-Unity/blob/main/Images/Gameplay%20photos/Screenshot%20(50).png)
    
 3. The cube can be dragged and dropped in the world.
+
+![Gameplay3](https://github.com/Stanly-Davis/Simple-World-Creation-Game-in-Unity/blob/main/Images/Gameplay%20photos/Screenshot%20(52).png)
 
    
 4. On clicking sphere button, sphere also is created in the world and it can be drag dropped.
 
+![Gameplay4](https://github.com/Stanly-Davis/Simple-World-Creation-Game-in-Unity/blob/main/Images/Gameplay%20photos/Screenshot%20(54).png)
+
    
 5. Up to 5 cubes or spheres can be used.
+
+![Gameplay5](https://github.com/Stanly-Davis/Simple-World-Creation-Game-in-Unity/blob/main/Images/Gameplay%20photos/Screenshot%20(56).png)
 
     
 6. After clicking start button, the next scene appears. A capsule is taken as Player
 
+
+![Gameplay6](https://github.com/Stanly-Davis/Simple-World-Creation-Game-in-Unity/blob/main/Images/Gameplay%20photos/Screenshot%20(58).png)
+
     
 7. The player can jump by pressing space bar and can move by using arrow keys or WASD keys.
 
-  The player can exit game by pressing Quit button.
+  The player can exit game by pressing Quit button
 
-   
+
+![Gameplay7](https://github.com/Stanly-Davis/Simple-World-Creation-Game-in-Unity/blob/main/Images/Gameplay%20photos/Screenshot%20(59).png)
+
+
+![Gameplay8](https://github.com/Stanly-Davis/Simple-World-Creation-Game-in-Unity/blob/main/Images/Gameplay%20photos/Screenshot%20(61).png)
 
 
 
