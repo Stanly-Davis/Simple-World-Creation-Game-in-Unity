@@ -1,7 +1,9 @@
 # Simple World Creation Game
 
-•	I have made a simple game where player can select up to 5 cubes or sphere.
+•	I have made a simple game where player can select up to 5 cubes or sphere
+
 •	The selected object can be dragged on the playground.
+
 •	After this, a player object is introduced to next scene, which can move around the objects.
 
 This was an assignment for Game dev internship which i dint get selected 😭
