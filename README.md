@@ -38,38 +38,48 @@ This was an assignment for Game dev internship which i dint get selected 😭
 
 1.	Script to create cube at runtime.
 
+
 ![Script1](https://github.com/Stanly-Davis/Simple-World-Creation-Game-in-Unity/blob/main/Images/Code_photos/1_cubeCreate.png)
+
 
 2.  Script to create sphere at runtime.
 
+
 ![Script2](https://github.com/Stanly-Davis/Simple-World-Creation-Game-in-Unity/blob/main/Images/Code_photos/2_SphereCreate.png)
 
+
 3.	Script to Drag and Drop objects
+
 
 ![Script3](https://github.com/Stanly-Davis/Simple-World-Creation-Game-in-Unity/blob/main/Images/Code_photos/3_Dragdrop.png)
 
 
 4.  Script to go to next scene
 
+
 ![Script4](https://github.com/Stanly-Davis/Simple-World-Creation-Game-in-Unity/blob/main/Images/Code_photos/4_next%20scene.png)
 
 
 5.	Script to take objects from one scene to another.
+
 
 ![Script5](https://github.com/Stanly-Davis/Simple-World-Creation-Game-in-Unity/blob/main/Images/Code_photos/5_Shiftobject.png)
 
 
 6.	Script for Player controls – horizontal vertical movements and Jump
 
+
 ![Script6](https://github.com/Stanly-Davis/Simple-World-Creation-Game-in-Unity/blob/main/Images/Code_photos/6_PlayerMove.png)
 
 
 7.	Script to make camera follow Player.
 
+
 ![Script7](https://github.com/Stanly-Davis/Simple-World-Creation-Game-in-Unity/blob/main/Images/Code_photos/7_CameraFollow.png)
 
 
 8.  Script to end game by click quite button.
+
 
 ![Script8](https://github.com/Stanly-Davis/Simple-World-Creation-Game-in-Unity/blob/main/Images/Code_photos/8_Quit%20game.png)
 
@@ -79,8 +89,13 @@ This was an assignment for Game dev internship which i dint get selected 😭
 1. Scene 1
 
 
+![Scene1](https://github.com/Stanly-Davis/Simple-World-Creation-Game-in-Unity/blob/main/Images/Scenes/Screenshot%20(63).png)
+
+
 2. Scene 2
 
+
+![Scene2](https://github.com/Stanly-Davis/Simple-World-Creation-Game-in-Unity/blob/main/Images/Scenes/Screenshot%20(64).png)
 
 
 
