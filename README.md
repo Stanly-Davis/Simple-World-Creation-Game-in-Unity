@@ -35,7 +35,11 @@ https://drive.google.com/drive/folders/1xJGbSwYG_6mTjqE9AZQ_2sRFYdQdmEbi?usp=sha
 6. After clicking start button, the next scene appears. A capsule is taken as Player
 
     
-7. The player can jump by pressing space bar and can move by using arrow keys or WASD keys. The player can exit game by pressing Quit button.
+7. The player can jump by pressing space bar and can move by using arrow keys or WASD keys.
+
+  The player can exit game by pressing Quit button.
+
+   
 
 
 
